@@ -1,3 +1,4 @@
+# Created by Temmie Amodo.
 def greet_user():
     """Greets the user according to the time"""
     
